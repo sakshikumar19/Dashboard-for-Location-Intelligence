@@ -1,0 +1,638 @@
+Landmark Latitude,Landmark Longitude,Distance,Landmark Name,Amenity Type (grouped),Shop Type (grouped),Tourism Type (grouped),Building Type (grouped),Property Type
+12.3110701,76.6593011,4.342753692952816,Pai Vista,,,lodging,,lodging
+12.3079885,76.653633,3.871430381312638,Mysore City Bus Stand,transportation,,,,transportation
+12.3342845,76.6297013,1.7293697200614895,Mysore West Lions Sevanikethan School,education,,,,education
+12.3272782,76.6366858,1.8491367095246418,Ramakrishna Vidyashala,education,,,,education
+12.3286366,76.6299481,1.2811163734178206,Nirmala Convent,education,,,,education
+12.3114826,76.6440802,2.7643986303093357,Metropole,,,lodging,,lodging
+12.3117845,76.6430331,2.646749951963436,"Regaalis, Mysore",,,lodging,,lodging
+12.3097363,76.6446,2.8979561686289075,Cafe Coffee Day,cafe,,,,cafe
+12.3063337,76.6451531,3.136779696387666,ICICI Bank (Main Branch),financial,,,,financial
+12.2978617,76.6431092,3.572094244384979,Government School;Raman IT,education,,,,education
+12.299309,76.6429854,3.4463655088768963,,fuel,,,,fuel
+12.2951146,76.6418418,3.7153439113398297,Canara Bank,financial,,,,financial
+12.2955488,76.6411661,3.632177787972453,Hotel Mahesh Prasad,food service,,,,food service
+12.3125141,76.6433728,2.64915003540805,Hotel Guru Residency,,,lodging,,lodging
+12.315382,76.6236231,0.7401693387127636,Karnataka State Open University,education,,,,education
+12.3136016,76.6163265,0.9936029283265112,Downs,cafe,,,,cafe
+12.3080613,76.6598093,4.495234872782916,Hotel Ramanashree,,,lodging,,lodging
+12.3078743,76.659847,4.506009925891687,Papa John's,food service,,,,food service
+12.2932121,76.6453727,4.121991081707119,ICICI Bank,financial,,,,financial
+12.2839716,76.6415174,4.73576611890766,National Institute of Engineering,education,,,,education
+12.2814743,76.6412739,4.969769908816155,Golden Jubliee Block,education,,,,education
+12.309104,76.6623707,4.723838346069115,Sandesh The Prince,food service,,,,food service
+12.3123503,76.6531011,3.6557933084506273,Bombay Tiffanys,,,lodging,,lodging
+12.3110043,76.6542796,3.821691218843194,Hotel New Shilpashri Bar and Restaurant,,,lodging,,lodging
+12.3128041,76.6538693,3.722772747620447,Chandra Palace,,,lodging,,lodging
+12.3187256,76.6482804,3.0051718964859515,Private Bus Stand,transportation,,,,transportation
+12.3086026,76.6587377,4.365504780961129,Hotel RRR,,,lodging,,lodging
+12.310994,76.6593118,4.346124677629,Pai Vista,food service,,,,food service
+12.3110944,76.6550151,3.8949449258047673,RRR Hotel,food service,,,,food service
+12.31096,76.6578378,4.193062545645391,Sri Uma Maheswara Lodge,,,lodging,,lodging
+12.3060376,76.6507364,3.67888837661785,Kalpana Lodge,,,lodging,,lodging
+12.3100755,76.6528438,3.7072153304294457,Indra Cafe's Paras,food service,,,,food service
+12.3110232,76.6581937,4.228295122145626,St. Bartholemew's Church,place of worship,,,,place of worship
+12.3104659,76.6578166,4.206432750794698,Arun Darshan,food service,,,,food service
+12.3048676,76.6530862,3.9653902443814393,Lakshmiramana Temple,place of worship,,,,place of worship
+12.3111204,76.6447296,2.8451792379477885,Aravind Service Station,fuel,,,,fuel
+12.3100962,76.6566137,4.0939871419935185,Hotel Zameera,food service,,,,food service
+12.3103941,76.6578212,4.20923010678532,MRT Yatri Nivas,,,lodging,,lodging
+12.313992,76.6563051,3.9493269172501186,,financial,,,,financial
+12.3037677,76.6557151,4.275201544987142,Shweta Varahaswamy Temple,place of worship,,,,place of worship
+12.3103101,76.6576189,4.19095521500905,Karnataka Tourist Center,,,lodging,,lodging
+12.3139028,76.6563078,3.951700498063844,State Bank of India,financial,,,,financial
+12.3103309,76.6579416,4.223791122192089,Shreyas Lodge,,,lodging,,lodging
+12.3103638,76.6577443,4.2022236100772945,Hotel Iyengar's,food service,,,,food service
+12.3104513,76.6579302,4.218715762003,Hotel Santosh,food service,,,,food service
+12.3128495,76.6474754,3.055215953318521,Ganesh Petrol Bunk,fuel,,,,fuel
+12.3124681,76.647261,3.0466884290103433,Vijaya Petrol Bunk,fuel,,,,fuel
+12.3290856,76.6477973,3.058822529899998,Sujatha Residency,,,lodging,,lodging
+12.3085469,76.6603582,4.53421996141787,Om Shanti,food service,,,,food service
+12.3526693,76.6064393,3.806867131375113,Green Valley,food service,,,,food service
+12.2831669,76.640973,4.787209162041654,Old Canteen,cafe,,,,cafe
+12.2829056,76.64159,4.844002772003685,,fuel,,,,fuel
+12.2837358,76.6408243,4.723611495843727,NIE Library,education,,,,education
+12.2914909,76.6435489,4.148196430515672,Sharada Vilas School and College,education,,,,education
+12.2959592,76.6386458,3.4340820046773093,Sindoora,food service,,,,food service
+12.2978723,76.6432846,3.584215184269507,Vijaya Bank,financial,,,,financial
+12.2978723,76.6432846,3.584215184269507,Vijaya Bank,financial,,,,financial
+12.2952909,76.6399359,3.5754280597283796,Ram Mandir,place of worship,,,,place of worship
+12.2955923,76.6419261,3.679387791984697,Mystore,,grocery,,,grocery
+12.2978354,76.6425126,3.5305218854344287,,financial,,,,financial
+12.3008834,76.6404911,3.1323773037256712,Jade Garden,food service,,,,food service
+12.3008074,76.6403651,3.129208443307253,Jade Garden,,,lodging,,lodging
+12.295892,76.641981,3.657192493220562,State Bank of India,financial,,,,financial
+12.2988029,76.6454853,3.6800665325767596,The Heritage,bar/club,,,,bar/club
+12.2933335,76.6453029,4.106799762501724,Indian Oil,fuel,,,,fuel
+12.3118115,76.6426288,2.605416041296573,Reliance Trends,,clothes,,,clothes
+12.2911557,76.6468613,4.400996350808945,,fuel,,,,fuel
+12.2872351,76.6505842,4.995091644962902,Hindustan Petroleum,fuel,,,,fuel
+12.3131217,76.6433369,2.6209891754292287,Ideal Jawa Rotary High School,education,,,,education
+12.3163895,76.6458903,2.7872707749363577,Railway Taxi Service,transportation,,,,transportation
+12.313106,76.6446565,2.756214112068386,HP,fuel,,,,fuel
+12.3166751,76.6458206,2.773636147799748,,financial,,,,financial
+12.3164288,76.6455443,2.7495726167077663,,financial,,,,financial
+12.3157475,76.6325276,1.425998397534062,Nandi Petrol Bunk,fuel,,,,fuel
+12.3228072,76.6349681,1.5517025694611795,Corner House,cafe,,,,cafe
+12.3563251,76.6367869,4.254061212007529,Aris Global Software Pvt Ltd.,,,,office,office
+12.3564037,76.6277264,3.963035139131581,Costal Garden,food service,,,,food service
+12.3102018,76.6560214,4.029157996217994,Domino's,food service,,,,food service
+12.3086497,76.6583683,4.325870930354674,Parklane Hotel,food service,,lodging,,food service
+12.3085404,76.6596102,4.457421575229867,Josalukas,,jewellery,,,jewellery
+12.3139885,76.658886,4.223986411067044,Malabar Gold,,jewellery,,,jewellery
+12.2883471,76.6495066,4.825048416415278,Gayatri Tiffin Room,food service,,,,food service
+12.2964365,76.6335822,3.1079621322132964,Indian Oil,fuel,,,,fuel
+12.2903852,76.6419285,4.147304197996314,Ashokapuram Government School,education,,,,education
+12.3178359,76.6251578,0.6225718562093737,Pelican Pub,bar/club,,,,bar/club
+12.3214224,76.620769,0.0015441072551439926,DRC,cinema,,,,cinema
+12.3214186,76.6210102,0.02772374402739932,Big Bazaar,,grocery,,,grocery
+12.3213183,76.6211724,0.04673257152016283,KFC,food service,,,,food service
+12.338063,76.618564,1.8658596039851543,Savi Ruchi,food service,,,,food service
+12.3381312,76.6167187,1.9092303112581916,Reliance Fresh,,grocery,,,grocery
+12.3389696,76.6164558,2.0065330824472225,,fuel,,,,fuel
+12.3446084,76.6187893,2.5872590952989243,Cauvery Bar,bar/club,,,,bar/club
+12.3491884,76.618387,3.0984013812508993,More Store,,grocery,,,grocery
+12.3515413,76.6286062,3.4562135933033624,Royal Inn,,,lodging,,lodging
+12.3340367,76.6180987,1.432281359682892,Oyster Bay,food service,,,,food service
+12.2867455,76.6259777,3.8971543422926067,Shanti Sagar,food service,,,,food service
+12.2855032,76.6337185,4.234816233805627,Iskon,place of worship,,,,place of worship
+12.2985955,76.6262273,2.606667790586216,Devaru Fuel Center,fuel,,,,fuel
+12.299678,76.6264083,2.494391245209968,State Bank of India (SME Branch),financial,,,,financial
+12.300894,76.6261561,2.356604095902927,Dolphin Bakes 'N' Ice Creams,food service,,,,food service
+12.2952419,76.6258478,2.9629867939156083,,fuel,,,,fuel
+12.2943948,76.6256653,3.052046311881955,Kafe Biryani,food service,,,,food service
+12.3251209,76.6317018,1.2583738006521532,HDFC Bank,financial,,,,financial
+12.3245733,76.6312404,1.1918056349374035,Axis Bank,financial,,,,financial
+12.3233522,76.629961,1.0228960075023121,Pizza Hut,food service,,,,food service
+12.3232316,76.6304465,1.071917428498361,Loyal World,,grocery,,,grocery
+12.3045108,76.6437878,3.129905794511091,Jal Paan,food service,,,,food service
+12.3047676,76.6438602,3.119160820858029,Maharaja,food service,,,,food service
+12.310275,76.6583818,4.271352057158176,Ganesh Hotel,,,lodging,,lodging
+12.3093689,76.6561671,4.073736224910576,Corporation Bank ATM,financial,,,,financial
+12.3118335,76.6539708,3.7625766675811954,Hotel Dasparakash Akshaya,,,lodging,,lodging
+12.2971227,76.6413823,3.510144434408802,Lord Shiva temple,place of worship,,,,place of worship
+12.29066,76.6448529,4.307289003709029,Madhva Boys' Hostel,,,lodging,,lodging
+12.2905185,76.6451185,4.33734230365209,Sankethi Boys' Hostel,,,lodging,,lodging
+12.3129767,76.6127515,1.2796131820069219,Ganapathi Temple,place of worship,,,,place of worship
+12.3134507,76.6149147,1.0898610949083833,Punjab National Bank,financial,,,,financial
+12.2964708,76.6309423,2.9868354972262994,Cafe Coffee Day,cafe,,,,cafe
+12.2964727,76.6308603,2.983349627858667,Bombay Tiffanys Sweets and Chats,food service,,,,food service
+12.2953564,76.6320028,3.1452151405443556,Canara Bank,financial,,,,financial
+12.2888911,76.6271507,3.6831822401138843,Dasthi Institute of Nursing,education,,,,education
+12.2863975,76.6299131,4.019412367361978,Reliance Fresh,,grocery,,,grocery
+12.2863844,76.6297803,4.0172779751421945,Canara Bank,financial,,,,financial
+12.2864459,76.6294896,4.003042670587257,Petrol Bunk,fuel,,,,fuel
+12.2866477,76.626633,3.918883314117476,More,,grocery,,,grocery
+12.2864669,76.6284274,3.9749842428517552,Euro Kids,education,,,,education
+12.2865429,76.6277193,3.9512723810123687,Queen's Fashion Institute,education,,,,education
+12.2887417,76.6308216,3.794672705062623,NIIT,education,,,,education
+12.2866031,76.626794,3.9266610115671075,Nature Fresh,food service,,,,food service
+12.2860854,76.6257844,3.9668393855538615,State Bank of India,financial,,,,financial
+12.286818,76.6247206,3.8716122873558256,ShowOff,,clothes,,,clothes
+12.2824439,76.6256594,4.366574783218534,Indraprastha Bar and Restaurant,bar/club,,,,bar/club
+12.2864407,76.6260859,3.932402605399045,Jockey,,clothes,,,clothes
+12.2848131,76.625941,4.109308649249055,Cumin,food service,,,,food service
+12.2866844,76.626515,3.912786362391572,Peter England,,clothes,,,clothes
+12.2859798,76.6257741,3.9783164612802793,Vinayaka Temple,place of worship,,,,place of worship
+12.2844462,76.6260429,4.151242165246805,Net Focus Browsing Center,education,,,,education
+12.2867709,76.6256809,3.8897929596032497,Loyal World,,grocery,,,grocery
+12.286176,76.6257399,3.9561966850585244,Kuvempunagar Shopping Complex,,grocery,,,grocery
+12.2867656,76.6255414,3.8883209158259238,Woodlands,,clothes,,,clothes
+12.2863673,76.6265901,3.9488980770812203,People,,clothes,,,clothes
+12.2844174,76.6264104,4.160122760447655,Agarwal's Chats,food service,,,,food service
+12.2844672,76.6261985,4.151304012956331,Mr.Idly,food service,,,,food service
+12.2867394,76.6258096,3.8952088729042234,Rangoli Showroom,,clothes,,,clothes
+12.2856125,76.6259893,4.022015768918939,Corporation Bank,financial,,,,financial
+12.3370488,76.6178496,1.7662706268365527,Sri Raghavendra Complex,,,,residential,residential
+12.326263,76.6160262,0.7442381257063261,Taste Buds,food service,,,,food service
+12.3343942,76.6129873,1.671317688865819,JSS School,education,,,,education
+12.3389506,76.6153771,2.0349730830126673,Mytri,food service,,,,food service
+12.3237475,76.625937,0.6195795216009322,The Downtown,food service,,,,food service
+12.3070497,76.6163213,1.6689209424482185,Gusto,bar/club,,,,bar/club
+12.3219866,76.6179359,0.31266228153515396,Greens,food service,,,,food service
+12.3121835,76.6405428,2.3824080971025148,The Quorum,food service,,,,food service
+12.3231202,76.6302866,1.0525664585915147,Domino's,food service,,,,food service
+12.3253282,76.6282116,0.919241025409448,The 6th main,food service,,,,food service
+12.3251248,76.6286932,0.9556953526336271,High way,food service,,,,food service
+12.3209763,76.6306547,1.0765725384528813,Cafe Pascucci,cafe,,,,cafe
+12.3240662,76.6261934,0.6600095900794043,Green Leaf,food service,,,,food service
+12.3238042,76.6279504,0.8253936021884692,Lemon tree,food service,,,,food service
+12.3238854,76.6277921,0.8121300726494171,Empire,food service,,,,food service
+12.3019019,76.6511622,3.952530946639549,,cinema,,,,cinema
+12.3239931,76.6280108,0.8385422983914971,Mezzaluna Restaurant,food service,,,,food service
+12.3263371,76.6191567,0.5736630288681435,Mezzaluna Restaurant,food service,,,,food service
+12.3263944,76.6173466,0.6656167270956688,Shivsagar Hotel,food service,,,,food service
+12.3232486,76.6356858,1.6346766851388157,Petrol Bunk,fuel,,,,fuel
+12.3124209,76.6405996,2.3767423964522156,Quorum,,,lodging,,lodging
+12.2972477,76.6477799,3.9804852527853,T.I.M.E Institute,,,,office,office
+12.3209572,76.6315057,1.1690220069790067,Santrupthi Homestay,,,lodging,,lodging
+12.3619271,76.6264901,4.547062080081315,Hotel Mayflower,food service,,,,food service
+12.2891871,76.6291222,3.6976116722787546,Prakriye - IT for Change,,,,office,office
+12.2961252,76.6315971,3.049328710718725,Mega Mart,,clothes,,,clothes
+12.3088241,76.6539235,3.865936294481935,KFC,food service,,,,food service
+12.308822,76.6540163,3.8754189843411373,PVR Cinemas,cinema,,,,cinema
+12.3049803,76.6438454,3.1038784764031213,Embassy,bar/club,,,,bar/club
+12.295324,76.6142885,2.9855716024869943,Day To Day Food Stuffs,,grocery,,,grocery
+12.3101549,76.6464063,3.055241870060933,Nalapaak,food service,,,,food service
+12.3092568,76.6469656,3.1523029898157704,Chopra's,,clothes,,,clothes
+12.3104405,76.6464143,3.043154234179671,Hotel Sringar,food service,,,,food service
+12.3092542,76.647207,3.1761344260018283,Bhima & Brothers,,jewellery,,,jewellery
+12.3098683,76.6498889,3.415711759796223,Big Bus,,clothes,,,clothes
+12.3225663,76.6290267,0.9075781636395936,Chandramoulishwara Temple,place of worship,,,,place of worship
+12.2833622,76.6416921,4.8044147485009425,Srinidhi Sagar,food service,,,,food service
+12.3082818,76.6535696,3.8525902312117095,,financial,,,,financial
+12.3067174,76.651169,3.6864169093011823,Rajabhavan Hotel,food service,,,,food service
+12.3312788,76.6273349,1.3086934743067238,Vishnu Bhavan,food service,,,,food service
+12.3358069,76.6238461,1.6346114962474787,Aralimara Temple,place of worship,,,,place of worship
+12.3380654,76.6123816,2.0623169830383787,,financial,,,,financial
+12.323934,76.6347378,1.5445036617953025,Sri Ramakrishna Ashrama,place of worship,,,,place of worship
+12.327841,76.6313797,1.3571720668218283,Nalapak,food service,,,,food service
+12.3309801,76.6286653,1.366914296512479,Ganapati Temple,place of worship,,,,place of worship
+12.315877,76.6581867,4.1128310317848795,Aishwarya Residency,,,lodging,,lodging
+12.3121963,76.6585251,4.229416768574241,Reliance Mart,,grocery,,,grocery
+12.2890375,76.6294424,3.7224058108869373,,education,,,,education
+12.2937216,76.6255377,3.123442027626991,A2Z Supermarket,,grocery,,,grocery
+12.2923438,76.6247118,3.2615774610407184,Axis Bank,financial,,,,financial
+12.3030794,76.6057192,2.6128986506690524,Mata Amritanandamayi Math,place of worship,,,,place of worship
+12.3581765,76.5993942,4.699856998086648,Infosys Bus Station,transportation,,,,transportation
+12.3129434,76.6446722,2.7639350544675407,McDonald's,food service,,,,food service
+12.2953686,76.6077588,3.2225457749750697,Petrol Bunk,fuel,,,,fuel
+12.3181954,76.663362,4.642449621625311,Acme Auto gas,fuel,,,,fuel
+12.3016417,76.635416,2.7154188933263974,Shree SS Petrol / Gas Station,fuel,,,,fuel
+12.3538127,76.6170616,3.624179262734069,Prema Petrol / Gas Station,fuel,,,,fuel
+12.3304803,76.6452435,2.844607781358052,HDFC,financial,,,,financial
+12.311427,76.6589809,4.298790722119447,,bar/club,,,,bar/club
+12.3183859,76.6596091,4.234348842231051,M. B. International,,,lodging,,lodging
+12.3189459,76.6252994,0.5651558367263726,Elements Bistro,food service,,,,food service
+12.31842,76.6487789,3.0625776006874226,Indian Oil,fuel,,,,fuel
+12.3184023,76.6505331,3.252278830604216,Axis Bank,financial,,,,financial
+12.3186093,76.6508496,3.2842084401676557,State Bank,financial,,,,financial
+12.318868,76.6589358,4.15743552066994,Hotel Silver Star,,,lodging,,lodging
+12.3238524,76.6130152,0.8832309707456283,Aishwarya Petrol Bunk,fuel,,,,fuel
+12.2999571,76.6346607,2.8245133396984614,HDFC Bank,financial,,,,financial
+12.3112197,76.6596385,4.373763262844827,Maharaja Hotel Mysore,,,lodging,,lodging
+12.319111,76.6619921,4.48710782477678,Green wood inn,,,lodging,,lodging
+12.3259335,76.6266137,0.810522020300881,Bell Platter,food service,,,,food service
+12.3267251,76.6273263,0.9260530046498935,Cubs & Mezzaluna,cafe,,,,cafe
+12.3131046,76.6366698,1.960630399703404,The Green Hotel,,,lodging,,lodging
+12.3111165,76.657859,4.1904829614994314,The Grand Inn,,,lodging,,lodging
+12.3130915,76.6533825,3.6634848831268227,Shivanna Provision Store,,grocery,,,grocery
+12.2958356,76.6258709,2.898637739453645,Shree Guru Sasyahari,food service,,,,food service
+12.2993453,76.6259355,2.5182889100387196,State Bank of India,financial,,,,financial
+12.2947068,76.6257263,3.019072019378265,Lemon Three,food service,,,,food service
+12.294573,76.625697,3.0331460411932243,Chicken Hut,food service,,,,food service
+12.2964703,76.6291621,2.920755888706164,,financial,,,,financial
+12.2964459,76.6303417,2.9658705344698477,,financial,,,,financial
+12.2961656,76.6275156,2.9026206082135326,,financial,,,,financial
+12.2987331,76.6262811,2.5931198364841834,Domino's,food service,,,,food service
+12.299458,76.6283351,2.577169897075029,Nandini Milk Booth,,grocery,,,grocery
+12.2989456,76.6263204,2.5711392859595223,IDBI Bank,financial,,,,financial
+12.2990973,76.6263508,2.5555306948540473,Hotel Nalpak,food service,,,,food service
+12.2986812,76.6333201,2.873390178706545,Indian Oil,fuel,,,,fuel
+12.3015403,76.6303301,2.4430429517683176,State Bank of Mysore,financial,,,,financial
+12.3014994,76.6262206,2.2932721387621884,Passion Fellowship,place of worship,,,,place of worship
+12.302523,76.6180188,2.122171948170259,Axis Bank,financial,,,,financial
+12.3072574,76.6163241,1.6467330021925306,,financial,,,,financial
+12.3130997,76.6153687,1.0946876392365132,,financial,,,,financial
+12.3206379,76.6210058,0.09113351122840502,IDBI Bank,financial,,,,financial
+12.3444279,76.605859,3.027140289498306,Sankranthi Circle;Karnataka Bank,financial,,,,financial
+12.3244576,76.6132957,0.8779033816855906,Greenleaf,food service,,,,food service
+12.2925279,76.6280554,3.3091055521342785,The National Cooperative Bank Ltd.,financial,,,,financial
+12.2939439,76.628469,3.168056555705086,Bank of Baroda,financial,,,,financial
+12.2909753,76.6108417,3.5524803999485957,Orchids School,education,,,,education
+12.3105013,76.6580399,4.228525563684716,Giri,bar/club,,,,bar/club
+12.2998304,76.6244292,2.4336118859761093,,financial,,,,financial
+12.3052457,76.6471556,3.3853354590518965,Goli,food service,,,,food service
+12.3164518,76.6236194,0.6340482510694962,State Bank of India,financial,,,,financial
+12.3227206,76.6245615,0.4380729885143619,State Bank of India,financial,,,,financial
+12.3163077,76.6277322,0.947449951431869,State Bank of India,financial,,,,financial
+12.3089819,76.6518801,3.653233748638195,,financial,,,,financial
+12.295658,76.6153036,2.9251830873088953,New Ashwini Bar and Restaurant,bar/club,,,,bar/club
+12.3024862,76.6214719,2.106782546760539,Shiv Sagar,,,lodging,,lodging
+12.3020732,76.6221977,2.1569678272289847,State Bank of Mysore,financial,,,,financial
+12.2981717,76.6169668,2.617646752782527,State Bank of India,financial,,,,financial
+12.2981544,76.6169615,2.6196370416283674,,financial,,,,financial
+12.2954673,76.6211198,2.8860806945251545,Kavitha Departmental Store,,grocery,,,grocery
+12.3008644,76.6166746,2.3282672667778406,ICICI Bank,financial,,,,financial
+12.3061956,76.6445225,3.0875043307779797,Andhra Bank,financial,,,,financial
+12.3058933,76.6333887,2.205557783290848,24 Mane Telugu Shetty Student Hostel,,,lodging,,lodging
+12.3052077,76.6316872,2.158775455721612,Jyotipana Ganiga Student Hostel,,,lodging,,lodging
+12.3102725,76.6581207,4.244296475169154,Madwadi Gujrathi,food service,,,,food service
+12.3084901,76.6639936,4.912388185229353,Karnataka Bank,financial,,,,financial
+12.3060935,76.6471562,3.336261009180763,Syndicate Bank,financial,,,,financial
+12.3128198,76.6462771,2.93288959935424,Bharat Petroleum,fuel,,,,fuel
+12.3382882,76.6168895,1.922086939344711,Purple Haze,bar/club,,,,bar/club
+12.3178147,76.6484991,3.0405081136559833,Vidyavardhaka First Grade College,education,,,,education
+12.2805402,76.604575,4.8736723957342605,Axis Bank,financial,,,,financial
+12.3252255,76.6582374,4.093748692943346,Indian Oil Fuel Station,fuel,,,,fuel
+12.3254574,76.6585825,4.133758006758555,Bharat Petroleum,fuel,,,,fuel
+12.328986,76.6635208,4.721299296390045,State Bank of India,financial,,,,financial
+12.3288029,76.6635272,4.718400106412557,Five Star Chicken,food service,,,,food service
+12.3291308,76.6639744,4.772659218940863,New Sagar Home World,,grocery,,,grocery
+12.3292104,76.6641839,4.796638983500698,New Sagar Home World,,grocery,,,grocery
+12.2956241,76.6395737,3.522402315555597,Brand Factory,,clothes,,,clothes
+12.2956136,76.640711,3.596454721988382,R.N.M Associated,,home furnishing,,,home furnishing
+12.2956979,76.6396186,3.518561691184445,Sindhoor Restaurant,food service,,,,food service
+12.3092893,76.6524423,3.6972262087870744,Canara Bank,financial,,,,financial
+12.3091135,76.6528121,3.7417653561710353,Shankar Shetty & Sons,,jewellery,,,jewellery
+12.3120454,76.6519146,3.541909112204503,Bata,,shoes,,,shoes
+12.310159,76.6480638,3.220145468153071,KPC Glass House,,,attraction,,attraction
+12.3102276,76.6493661,3.348096142602153,Rajkamal Theater,cinema,,,,cinema
+12.313578,76.6564205,3.971443078446584,Indian Overseas Bank,financial,,,,financial
+12.3101269,76.6562927,4.059762050395589,Bata,,shoes,,,shoes
+12.326195,76.659894,4.284797897463006,Sri Lakshmi Venkateshwara Temple,place of worship,,,,place of worship
+12.3333638,76.6582053,4.2795612004501775,St. Philomena's Ladies Hostel,,,lodging,,lodging
+12.3362663,76.6574683,4.316350796586291,,place of worship,,,,place of worship
+12.339681,76.6566658,4.3978109225678255,St. Mathai's High School,,,,education,education
+12.3310674,76.6457119,2.9156283054092493,,fuel,,,,fuel
+12.3310929,76.6470596,3.0532345600023176,Kamat Yatrinivas,food service,,,,food service
+12.3284363,76.6407241,2.3053162162169714,I Can Learning Centre,,,,education,education
+12.3225134,76.6225131,0.22640318401459308,Polar Bear ice cream,food service,,,,food service
+12.3238911,76.6267867,0.7105232913396189,ICICI Bank,financial,,,,financial
+12.3214253,76.6217523,0.10834193860210709,Lollipop,,clothes,,,clothes
+12.3063856,76.645686,3.1828132466714116,Dolphin,food service,,,,food service
+12.2995112,76.6424642,3.3907360881780892,The Old House,cafe,,,,cafe
+12.2996174,76.6424642,3.38226136963171,,,clothes,,,clothes
+12.3280309,76.6286193,1.12704352472276,Tina's Cafe,cafe,,,,cafe
+12.3249513,76.6271025,0.7935109449796369,Dhaatu,,grocery,,,grocery
+12.3241912,76.6249254,0.547905684453561,Mysore Silk Udyog,,clothes,,,clothes
+12.3234015,76.628527,0.872573677560309,Madhwa Bhavan,food service,,,,food service
+12.32466,76.6244234,0.5372198716315131,Reliance Fresh,,grocery,,,grocery
+12.3266498,76.6268461,0.8809142824601939,Cafe Coffee Day,cafe,,,,cafe
+12.3327212,76.632753,1.8104909468276582,Indian Oil,fuel,,,,fuel
+12.3238764,76.6385564,1.9530162328606433,Indian Overseas Bank,financial,,,,financial
+12.3248093,76.6315102,1.2276479496993478,Barrista,cafe,,,,cafe
+12.3255246,76.6323926,1.3440891672544404,Bata,,shoes,,,shoes
+12.3246914,76.6238176,0.4929629071044221,Karnataka Bank,financial,,,,financial
+12.3246835,76.6238659,0.4958759664099588,Cuppa,cafe,,,,cafe
+12.3211494,76.6210129,0.041113264172825736,Barbeque Nation,food service,,,,food service
+12.3255055,76.6323212,1.3360726706623454,Woodlands,,shoes,,,shoes
+12.2861397,76.6273009,3.986927602512663,Bank of India,financial,,,,financial
+12.3384127,76.616396,1.9479316990980857,Indian Overseas Bank,financial,,,,financial
+12.2863276,76.6274055,3.9684240775666915,Easy Day,,grocery,,,grocery
+12.3084725,76.660436,4.544854880745009,Siddhartha,cafe,,,,cafe
+12.2964656,76.6292137,2.923009809435427,,financial,,,,financial
+12.2956715,76.6289626,2.9987369421897774,Nandini Milk Booth,,grocery,,,grocery
+12.2968219,76.6414461,3.5403507090790525,,financial,,,,financial
+12.2918856,76.6251357,3.3183805731981115,,financial,,,,financial
+12.2921434,76.6250412,3.288543996324376,,financial,,,,financial
+12.3089203,76.6627828,4.772612554023702,State Bank of India,financial,,,,financial
+12.334468,76.5936164,3.2857682275293847,Indian Oil,fuel,,,,fuel
+12.3332835,76.596937,2.9042570624276602,,fuel,,,,fuel
+12.3539387,76.6126171,3.722403040845226,,fuel,,,,fuel
+12.323308,76.6127985,0.8894704295786192,State Bank of India,financial,,,,financial
+12.3248485,76.6027967,1.9877634876242465,Andhra Bank,financial,,,,financial
+12.3249874,76.6021128,2.0636402229096475,Canara Bank,financial,,,,financial
+12.3289234,76.6477514,3.0490504354310657,The 1961,food service,,,,food service
+12.3309435,76.6469896,3.040293625489997,Nalapad Residency,,,lodging,,lodging
+12.3053344,76.635222,2.381031298766312,Ramya Hotel,food service,,,,food service
+12.3344971,76.595544,3.1007863157353706,Grand Maurya Resort,,,lodging,,lodging
+12.3022123,76.6322914,2.4763612355931124,Donne Biryani,food service,,,,food service
+12.3248692,76.6240039,0.5212128953383819,Top Stuff,food service,,,,food service
+12.3380462,76.6167044,1.9003916957042344,Dolphins,food service,,,,food service
+12.3015807,76.6349309,2.690405734885492,Karnataka Bank,financial,,,,financial
+12.2999317,76.634695,2.828893282919484,Geethanjali,,jewellery,,,jewellery
+12.3036854,76.6318564,2.311552252499283,"Lalitha's ""Maneruchi""",food service,,,,food service
+12.3257956,76.6193105,0.5112234890983635,CK Cafe,cafe,,,,cafe
+12.3380749,76.6167921,1.9013167409900567,Purple Haze,bar/club,,,,bar/club
+12.3237007,76.6271285,0.7373569246784168,Gupta Sweets & Chats,food service,,,,food service
+12.324912,76.6228508,0.45011792907121145,Cafelicious,cafe,,,,cafe
+12.3253173,76.6214058,0.4390889679669372,Maharashtra Bank,financial,,,,financial
+12.3615606,76.6303648,4.583871359065062,Cafe Coffee Day,cafe,,,,cafe
+12.2855804,76.5968754,4.755217350700509,Sharada Public School,,,attraction,,attraction
+12.3151382,76.6449229,2.7168080416485303,Adyar Ananda Bhavan,food service,,,,food service
+12.3348193,76.6318801,1.918449104540791,Shree Vaishnavi Restaurant,cafe,,,,cafe
+12.3345813,76.6310958,1.8448890287868676,Natures Nectar,,grocery,,,grocery
+12.3279539,76.6626986,4.613990152739403,Loyal World,,grocery,,,grocery
+12.337985,76.661856,4.829833369676216,Farookia Masjid,place of worship,,,,place of worship
+12.3050449,76.6472732,3.4080436397619627,Hangout Cafe & Bistro,cafe,,,,cafe
+12.3013812,76.6549716,4.3338928530490595,Suttur Matha,place of worship,,,,place of worship
+12.3199187,76.6527084,3.4752361478377565,Hazrath Khwaja Ghareeb Un Nawaz Hotel,food service,,,,food service
+12.3233297,76.6286203,0.8804249152145458,Anima,food service,,,,food service
+12.3293897,76.6446391,2.7417449514511607,White Parrot,,,lodging,,lodging
+12.3043553,76.6473542,3.4569760940388465,Nana's Place,,,lodging,,lodging
+12.3184352,76.6630743,4.609290734880311,Fortune JP Palace,,,lodging,,lodging
+12.2920469,76.615012,3.325198059630434,Vishwamanava High School,education,,,,education
+12.3037064,76.6463657,3.4089058528488208,Dalvoy A S School Committee,education,,,,education
+12.3048276,76.6297812,2.089384569363074,Mahabodhi School,education,,,,education
+12.3386828,76.6499146,3.703831407235107,St Mathias Primary School,education,,,,education
+12.2944423,76.6339185,3.3232224784423168,Balodyana English School,education,,,,education
+12.3254682,76.6479529,2.988677580251497,Farooquia Higher Secondary School,education,,,,education
+12.3032389,76.6456274,3.3746484368336693,Mesco Higher Primary School,education,,,,education
+12.322017,76.6294503,0.9469308081607947,Mathuru Mandali School,education,,,,education
+12.3019587,76.6270872,2.2707078872277817,Muktharunnisa Begam Royal English School,education,,,,education
+12.3036388,76.6455729,3.343421054533165,Dinkeys Higher Primary School,education,,,,education
+12.3210823,76.6347949,1.5256687078493167,Cftri School,education,,,,education
+12.3436946,76.6303327,2.6864690217542306,Ideal Jawa Rotary High School,education,,,,education
+12.3033173,76.6063018,2.5528957761523885,Amrita Vidyalayam,education,,,,education
+12.2903932,76.5936797,4.533746578680517,Christ Public School,education,,,,education
+12.3218997,76.6232527,0.27652725832681335,Chinmaya Saiukata Vidyalaya,education,,,,education
+12.2958834,76.639374,3.486330455663632,Mysore Public School,education,,,,education
+12.3103951,76.6138423,1.437642124556088,DMS Primary School,education,,,,education
+12.3354366,76.6261495,1.6651010342891919,Prakruthi Darshini,cafe,,,,cafe
+12.3005288,76.6401445,3.1358220996104267,Hotel Airlines,,,lodging,,lodging
+12.3016843,76.6418029,3.1692893062529275,Ramanna Ahara Gudi,food service,,,,food service
+12.330716,76.6286774,1.3450439424993297,Depth 'n' Green,food service,,,,food service
+12.2969875,76.6410841,3.501204262050246,Sambhrama Hotel,food service,,,,food service
+12.3340896,76.630132,1.7384813597952753,Santosha Cafe,cafe,,,,cafe
+12.3093464,76.6457144,3.025650791958362,Puma,,clothes,,,clothes
+12.3376662,76.652163,3.8605973895996444,Sip n snack,cafe,,,,cafe
+12.3347195,76.624262,1.5271200625627157,,,,lodging,,lodging
+12.3320806,76.628556,1.4571644709264644,,food service,,,,food service
+12.324036,76.653382,3.5562887882921803,Lotus herbal body shop,,grocery,,,grocery
+12.3338399,76.6398502,2.492006656005478,HDFC Bank,financial,,,,financial
+12.30123,76.6545342,4.301956470755053,Hotel Udupi,food service,,,,food service
+12.3309233,76.6288296,1.3733388289664186,Espresso Bar,cafe,,,,cafe
+12.3098969,76.649545,3.379916283721231,Sree Ganesh Prasad Lodge,,,lodging,,lodging
+12.293627,76.6483102,4.302597631968516,Mysore Mandala Yogashala,education,,,,education
+12.3098488,76.6478712,3.2145308684038763,Shri Vinayaka,food service,,,,food service
+12.3479767,76.6143757,3.033190263297859,M2M Foods,food service,,,,food service
+12.3060781,76.6505589,3.6597256198771166,Iyengers Plaza,,,lodging,,lodging
+12.2978223,76.6432159,3.5831922146332125,Vijaya Bank ATM,financial,,,,financial
+12.2934891,76.6245386,3.1328573296878806,Jagadamba Petrol Bunk,fuel,,,,fuel
+12.3365857,76.6279723,1.8596930726798169,Café Delight,cafe,,,,cafe
+12.3313707,76.6280075,1.3582998750459625,Just Gelato,cafe,,,,cafe
+12.3110927,76.6531514,3.702016706515431,Hotel Maurya,,,lodging,,lodging
+12.3058496,76.6523069,3.840142715729044,Cafe Aramane,food service,,,,food service
+12.3193641,76.6480201,2.9707278485965243,,fuel,,,,fuel
+12.3268374,76.6272864,0.9307484740204373,Cubs,cafe,,,,cafe
+12.3255979,76.6323585,1.3434020601504424,Pakva,cafe,,,,cafe
+12.3163872,76.6278738,0.9545913737162858,Bamboo Leaf Restaurant,cafe,,,,cafe
+12.3164343,76.6277558,0.9411416467657946,Canara Bank,financial,,,,financial
+12.3226893,76.6350406,1.5582979686820788,Frosting,cafe,,,,cafe
+12.3228282,76.6346329,1.515712745323067,Pataka,food service,,,,food service
+12.3254041,76.6220319,0.46422057128802724,Chatori Street,food service,,,,food service
+12.3318423,76.6624421,4.674469473162953,,financial,,,,financial
+12.3325288,76.6587755,4.310977261904163,,food service,,,,food service
+12.3337918,76.6563293,4.102031789343692,,financial,,,,financial
+12.320061,76.65748,3.9924418974147873,Oyo Rooms,,,lodging,,lodging
+12.3203545,76.6576087,4.00531268057972,,,,lodging,,lodging
+12.3116678,76.6535881,3.7280425320680473,Samasth,,,lodging,,lodging
+12.2972329,76.6454113,3.795834761170524,Masala Guesthouse,,,lodging,,lodging
+12.3108923,76.6575924,4.169563757336494,Mannars Deluxe Lodge,,,lodging,,lodging
+12.3378074,76.6521008,3.8620095997523047,PK Yousuf,,grocery,,,grocery
+12.3377772,76.6522524,3.874960206454088,ICICI Bank,financial,,,,financial
+12.3314201,76.6267021,1.2860121543734147,Café Roots,cafe,,,,cafe
+12.3102181,76.6569561,4.125283156523014,,bar/club,,,,bar/club
+12.3085369,76.6526128,3.745675253600191,Whiskey Bar,bar/club,,,,bar/club
+12.3520494,76.6065904,3.7372698571045064,Hotel Stay by the Way,,,lodging,,lodging
+12.3187366,76.6615253,4.439088467887166,Hotel Sumudra Mysore,,,lodging,,lodging
+12.3148329,76.6590107,4.219959802434568,Kauvery,,clothes,,,clothes
+12.3150889,76.659046,4.218891244801511,Juyalukkas,,jewellery,,,jewellery
+12.3003562,76.6260956,2.412978682268818,Chai Patthe,cafe,,,,cafe
+12.3021996,76.6498447,3.815070363905955,Krishnamachaar Yoga Shala,education,,,,education
+12.3235832,76.6279752,0.8204073893303281,KVR ruchi centre,cafe,,,,cafe
+12.3277181,76.6244485,0.8071133405491921,International Youth Hostel,,,lodging,,lodging
+12.2895708,76.6363097,3.9239844555227,Sankethi Boys Hostel,,,lodging,,lodging
+12.2885924,76.6357555,3.9975256760677436,Sankethi Girls Hostel,,,lodging,,lodging
+12.3428685,76.6363987,2.9284618164327196,Calvary Methodist Church,place of worship,,,,place of worship
+12.3055758,76.651925,3.81711396243698,Cafe Aramane,cafe,,,,cafe
+12.334152,76.6291148,1.6819657249588094,Vastra - The Yoga Store,,clothes,,,clothes
+12.3180112,76.6525938,3.4794946349141544,Hanumanthu Biryani Original 1930,food service,,,,food service
+12.3344856,76.6280661,1.6557423231964135,Sri Mathaji,,grocery,,,grocery
+12.3359652,76.6280733,1.8021766115416262,Nilgiri's,,grocery,,,grocery
+12.3377104,76.6281357,1.980918129382053,Sripad's,,,lodging,,lodging
+12.3180148,76.6525783,3.477777199146036,Hotel Hanumanthu Original 1930,,,lodging,,lodging
+12.3123207,76.6451228,2.8339806110186547,,food service,,,,food service
+12.3358923,76.6281535,1.7987811623829055,,,grocery,,,grocery
+12.3360347,76.6281552,1.8130424807854073,,,grocery,,,grocery
+12.33434,76.6280868,1.6426440453041213,,,grocery,,,grocery
+12.318098,76.6654785,4.872529701296101,Forum Centre City Mall,,grocery,,,grocery
+12.3039903,76.6506485,3.7819010812306804,Kaveri,,,lodging,,lodging
+12.3117283,76.6496335,3.317168944568381,Tibet Restaurant,food service,,,,food service
+12.3225856,76.6344855,1.4972114445433975,Zostel Mysore,,,lodging,,lodging
+12.321192,76.653043,3.50765636011681,,,,lodging,,lodging
+12.2986072,76.6483027,3.9231566985072983,,,,lodging,,lodging
+12.3120033,76.6526219,3.616767484242703,Bhagyalakshmi Deluxe Hotel,,,lodging,,lodging
+12.3335409,76.6281692,1.5700980738130992,Khushi,cafe,,,,cafe
+12.2962315,76.6407358,3.5435248892336992,Buskar's Guesthouse,,,lodging,,lodging
+12.3166096,76.6524446,3.4838950085163085,Old Town Mysore,,,attraction,,attraction
+12.3199914,76.6574812,3.9928731008967158,Hotel New Quba Mess,cafe,,,,cafe
+12.3460187,76.5822621,4.996592399858162,Saucer,food service,,,,food service
+12.3458595,76.5831719,4.904353501363722,Bella Italiano,food service,,,,food service
+12.3265683,76.6267593,0.8678493561327123,Onesta Pizzeria,food service,,,,food service
+12.3003383,76.6298108,2.54225124509156,,financial,,,,financial
+12.2994928,76.652673,4.238919390318634,Mylary Agrahara,food service,,,,food service
+12.3025902,76.6441915,3.296429898597888,Davanagere Benne Dose,food service,,,,food service
+12.298879,76.6526018,4.27227824558092,New Lakshmi Bavana,food service,,,,food service
+12.3173464,76.6448521,2.6566761708122972,Prepaid Autorikshaw Booking Counter,transportation,,,,transportation
+12.315155,76.6454312,2.769736767399477,Prepaid Autorikshaw Booking Counter,transportation,,,,transportation
+12.3321919,76.6625123,4.691628435732615,,financial,,,,financial
+12.3249225,76.6390422,2.0244078034276507,Sonder,,,lodging,,lodging
+12.3361446,76.6325183,2.076936588664717,Old barrel,food service,,,,food service
+12.312295,76.6484584,3.176012619302719,Ashoka Hotel,food service,,,,food service
+12.2991888,76.6409796,3.307310387384786,Vaibhav annexe,food service,,,,food service
+12.3110966,76.6567825,4.078739993628667,Murali café,cafe,,,,cafe
+12.3379873,76.6180678,1.8651841367592636,Nanking,food service,,,,food service
+12.3175271,76.6591652,4.195063896029623,Hotel Preethi International,,,lodging,,lodging
+12.3085054,76.6597044,4.4683632327776674,Hotel Roopa,bar/club,,,,bar/club
+12.3110043,76.6594241,4.357579027935014,Gufha,food service,,,,food service
+12.3084678,76.6644764,4.963284016116454,Guru,food service,,,,food service
+12.3161533,76.6458654,2.790016571750001,Prepaid Rickshaw,transportation,,,,transportation
+12.3253203,76.6398727,2.12161025480749,Corner Bunker,,,lodging,,lodging
+12.3345386,76.6294283,1.7365450277366916,Tusk,,,lodging,,lodging
+12.3239073,76.6299036,1.031607432407189,Roopa Elite Hotel,,,lodging,,lodging
+12.3395861,76.6542354,4.160273652908685,Cool Cafe,food service,,,,food service
+12.3036304,76.6614242,4.840801994649925,Satya Narayana,place of worship,,,,place of worship
+12.298395,76.626095,2.625166162405031,ICICI Bank,financial,,,,financial
+12.2960662,76.6416986,3.6228317214423575,Karnataka Bank ATM,financial,,,,financial
+12.292427,76.624661,3.2516821434449503,Axis Bank,financial,,,,financial
+12.2883964,76.6032588,4.134854864720679,State Bank ATM,financial,,,,financial
+12.2882407,76.6172301,3.7091910302220032,Karnataka Bank ATM,financial,,,,financial
+12.2811856,76.6054696,4.772121693284724,Karnataka Bank ATM,financial,,,,financial
+12.3615292,76.6008696,4.9554931361268,ICICI Bank ATM,financial,,,,financial
+12.35954,76.61887,4.243693337859925,HDFC Bank ATM,financial,,,,financial
+12.356512,76.629502,4.016068598642645,Axis Bank ATM,financial,,,,financial
+12.3546538,76.6060743,4.024838435722287,State Bank Of India ATM,financial,,,,financial
+12.3522977,76.6254534,3.471169363550714,Axis Bank,financial,,,,financial
+12.3512179,76.6263701,3.3690503020843066,Canara Bank,financial,,,,financial
+12.3484946,76.6183892,3.0215071465226386,ICICI Bank ATM,financial,,,,financial
+12.347623,76.627691,3.0094819755954667,HDFC Bank,financial,,,,financial
+12.346783,76.608459,3.1205474945108573,ICICI BANK ATM,financial,,,,financial
+12.344865,76.616698,2.6439533768350025,ICICI Bank ATM,financial,,,,financial
+12.3392567,76.5835955,4.4975659200085865,Canara Bank ATM,financial,,,,financial
+12.338041,76.611874,2.084818505793858,Axis Bank ATM,financial,,,,financial
+12.3373243,76.6523452,3.8605395576479955,Karnataka Bank ATM,financial,,,,financial
+12.3354527,76.6629118,4.838055693314814,Corporation Bank ATM,financial,,,,financial
+12.3348569,76.5820388,4.4632854619688125,Vijaya Bank ATM,financial,,,,financial
+12.3315337,76.6267103,1.297393692797264,Vijaya Bank ATM,financial,,,,financial
+12.330551,76.646164,2.9410397237928683,HDFC Bank ATM,financial,,,,financial
+12.3291171,76.6613427,4.491426602678208,Syndicate Bank ATM,financial,,,,financial
+12.3283526,76.6445316,2.695484538463034,Corporation Bank ATM,financial,,,,financial
+12.3246068,76.6314146,1.2109894991984234,Axis Bank ATM,financial,,,,financial
+12.3201232,76.6637454,4.672441097879172,Canara Bank ATM,financial,,,,financial
+12.319472,76.628254,0.8429520912608925,Axis Bank ATM,financial,,,,financial
+12.3167462,76.6236547,0.6077178298772299,State Bank of India ATM,financial,,,,financial
+12.315956,76.604713,1.8455920809520565,Axis Bank ATM,financial,,,,financial
+12.30925,76.64938,3.3913953770564698,ICICI Bank ATM,financial,,,,financial
+12.309153,76.615124,1.4949203588497741,ICICI Bank,financial,,,,financial
+12.308125,76.609208,1.938829491650781,Karnataka Bank,financial,,,,financial
+12.2858772,76.6125975,4.050325745989059,Dena Bank,financial,,,,financial
+12.3562749,76.6497846,4.996476105463723,Kaveri Grameena Bank,financial,,,,financial
+12.3449743,76.6335007,2.9625597658494582,Bandhan Bank,financial,,,,financial
+12.3415714,76.6058497,2.764516031540904,Dena Bank,financial,,,,financial
+12.3362886,76.6190406,1.663769046170422,Vijaya Bank,financial,,,,financial
+12.332894,76.6627126,4.733108354446057,State Bank of India,financial,,,,financial
+12.3312684,76.6012454,2.3855628738224173,Kaveri Grameena Bank,financial,,,,financial
+12.3247952,76.6232245,0.4613265899809767,Karnataka Bank,financial,,,,financial
+12.3246005,76.6302273,1.0880817793078261,Syndicate Bank,financial,,,,financial
+12.3221128,76.625857,0.5595761971976938,Indian Overseas Bank,financial,,,,financial
+12.3210241,76.630615,1.0720328192415027,Federal Bank,financial,,,,financial
+12.3135931,76.6148114,1.083674677646453,Punjab National Bank,financial,,,,financial
+12.31197,76.607269,1.8029320654750574,Kaveri Grameena Bank,financial,,,,financial
+12.3103502,76.6475116,3.1566118558893415,State Bank of India,financial,,,,financial
+12.3100697,76.6478763,3.2052864072817786,Andhra Bank,financial,,,,financial
+12.3083969,76.6640574,4.922055904240166,Karnataka Bank,financial,,,,financial
+12.3075039,76.6438426,2.947082618047873,Vijaya Bank,financial,,,,financial
+12.3037381,76.6616404,4.857387779442251,State Bank of India,financial,,,,financial
+12.3034735,76.6522759,3.9633841589024845,State Bank of India,financial,,,,financial
+12.298492,76.6491025,3.997991468577938,The Railway Co-operative Bank,financial,,,,financial
+12.2979465,76.5847274,4.704473995843731,Indian Overseas Bank,financial,,,,financial
+12.2952587,76.6100716,3.1319923138189227,Corporation Bank,financial,,,,financial
+12.2941781,76.646951,4.156326171626271,Corporation Bank,financial,,,,financial
+12.2927792,76.6388215,3.740952324681727,Agastya Co-operative Bank,financial,,,,financial
+12.2880566,76.6169499,3.7328017152026947,Canara Bank,financial,,,,financial
+12.2812013,76.6055202,4.7685742111224885,Karnataka Bank,financial,,,,financial
+12.349244,76.596489,4.0645353812682075,Annapoorna Aahar,food service,,,,food service
+12.340563,76.583774,4.546331277195525,Hotel Surabhi Vegetarian Restaurant,food service,,,,food service
+12.3292828,76.6642289,4.802905446789267,Five Star Chicken,food service,,,,food service
+12.3274884,76.633012,1.4927267530197046,Raj Bhavan Vegetarian Restaurant,food service,,,,food service
+12.3256026,76.6323266,1.3403322512983191,Pakva Lounge Vegetarian Family Restaurant,food service,,,,food service
+12.3221322,76.6209966,0.08342889379901701,Paprika Restaurants,food service,,,,food service
+12.3195081,76.6619325,4.478327254075457,Balaji Restaurant,food service,,,,food service
+12.3177141,76.6646127,4.782242635483842,Akshaya Pure Veg Restaurent,food service,,,,food service
+12.3080392,76.6604908,4.565977606058395,Om Shanthi (Hotel Siddharta) - Vegetarian Restaurant,food service,,,,food service
+12.3069782,76.6090272,2.0498831953520127,Hotel Mylari (Bogadi) - Vegetarian Restaurant,food service,,,,food service
+12.3055775,76.6498367,3.6172814042405466,The Veg Kitchen Vegetarian Restaurant,food service,,,,food service
+12.302408,76.644039,3.296606597436546,Udupi Ruchi Veg Restaurant,food service,,,,food service
+12.2962106,76.635335,3.219721046542283,Hotel Gokul Vegetarian,food service,,,,food service
+12.3557451,76.621988,3.8191262716793895,Central Institute of Plastics Engineering And Technology,education,,,,education
+12.3420201,76.6314482,2.5683213947356758,Govt Nature Cure And Yoga Medical College .,education,,,,education
+12.3336716,76.6634162,4.830419363353457,Sri Chayadevi B.ed College of Education,education,,,,education
+12.3176601,76.6480232,2.991622946645879,Vidyavardhaka Pre University College,education,,,,education
+12.3056239,76.6303958,2.0450032973675083,Yuvaraja College Hostel,education,,,,education
+12.3053521,76.6406059,2.8005103212371907,Maharaja Degree College,education,,,,education
+12.3018046,76.6232143,2.1974353837826515,Somani College,education,,,,education
+12.295577,76.648064,4.130335568837515,Sri Jagadamba Womens Teacher Training College Estd:1955,education,,,,education
+12.2951498,76.6101118,3.141632609503061,Aniframes - College of Animation & Vfx,education,,,,education
+12.2794873,76.6240795,4.676671458820389,Government First Grade College,education,,,,education
+12.3047814,76.6437474,3.1083943273488712,Hotel Maharaja,,,lodging,,lodging
+12.296628,76.65178,4.354312005578899,Royal Lodge,,,lodging,,lodging
+12.2949785,76.6046185,3.4231194833040344,Hotel Chamundeshwari,,,lodging,,lodging
+12.347829,76.625377,2.979159438922828,Hotel Swagth Hebbal Industry Mysore,,,lodging,,lodging
+12.3385612,76.6535322,4.03865016726794,Hotel Heera Palace,,,lodging,,lodging
+12.3314722,76.6479645,3.1600932586469774,Regenta Central Herald Hotel,,,lodging,,lodging
+12.3078766,76.6454161,3.0733457841081266,Hotel Adeline Mysore,,,lodging,,lodging
+12.3221435,76.6507263,3.256880912412306,Eidgah Masjid,place of worship,,,,place of worship
+12.3140277,76.6553859,3.850884773196772,Juma Masjid,place of worship,,,,place of worship
+12.3228049,76.6325255,1.2879085576508893,The Bakers Store(Natures Nectar),,grocery,,,grocery
+12.3243186,76.6312224,1.181902086927086,Sreenidhi vegetarian fast food,food service,,,,food service
+12.3252871,76.6228036,0.484177677116986,Ritual Coffee House,cafe,confectionary,,,cafe
+12.3362909,76.6292698,1.8946910573684153,Zen Kitchen,food service,,,,food service
+12.3304751,76.6289208,1.34189962447971,Ayuh Organics and Coffee shop,,grocery,,,grocery
+12.3232065,76.628601,0.8751797317531593,Bean Stop - Hunkal Heights,cafe,,,,cafe
+12.3327151,76.660445,4.490781995094017,Mahalakshmi Temple,place of worship,,,,place of worship
+12.3012888,76.6266425,2.328072195297873,Cafe Coffee Day,cafe,,,,cafe
+12.3011991,76.6266107,2.3367213379772536,american cuisne restuarant,food service,,,,food service
+12.3010928,76.6266131,2.348167797885478,Reliance Trends,,grocery,,,grocery
+12.2941023,76.6256875,3.084493539405465,Croma Electronic Store,,grocery,,,grocery
+12.2929878,76.6281499,3.261993694382158,Pan America Outlet,,clothes,,,clothes
+12.2926687,76.6281117,3.2953857919840983,Chandan Garments,,clothes,,,clothes
+12.2964787,76.6285596,2.900060828942696,Bata,,shoes,,,shoes
+12.3260437,76.6141737,0.8806117651608834,Chawlas2 Mysore,food service,,,,food service
+12.344202,76.65759,4.735830787163614,Karunanilaya Satyaseva Sisters,,,lodging,,lodging
+12.3289137,76.6188693,0.8580717410670861,Mysuru Coffee Bar,food service,,,,food service
+12.2939616,76.6282451,3.159807258374891,Mysore Tiffanys,food service,,,,food service
+12.3100035,76.612143,1.576964875667439,Narmada Hostel,,,lodging,,lodging
+12.3089706,76.6121802,1.6685532396432727,Ganga hostel,,,lodging,,lodging
+12.3078702,76.612398,1.7590589070765477,Godavari guest house,,,lodging,,lodging
+12.3121419,76.611394,1.4486271996578501,Kaveri hostel,,,lodging,,lodging
+12.3108391,76.611989,1.5136481269139743,Krishna hostel,,,lodging,,lodging
+12.2863687,76.6259511,3.9381956541837555,Holige Mane,cafe,,,,cafe
+12.3322764,76.6284333,1.467312378279509,Minimal Coffee Roasters,cafe,,,,cafe
+12.3269792,76.6274731,0.9564147853350825,Seafood Restaurant,food service,,,,food service
+12.3254316,76.6254073,0.674091679132773,Big Cup Cafe,cafe,,,,cafe
+12.3281604,76.6284806,1.1252053608694246,White Teak Coffee Roasters,cafe,,,,cafe
+12.3026524,76.6355096,2.631404888937434,State Bank of India,financial,,,,financial
+12.3020999,76.635497,2.679570595074223,Aanco,,home furnishing,,,home furnishing
+12.3012746,76.652158,4.081248982172254,,fuel,,,,fuel
+12.3247714,76.6269917,0.7732372450299606,Dhatu,food service,,,,food service
+12.3319471,76.6251812,1.265465634660977,Khushicafe at Anokhi garden,cafe,,,,cafe
+12.3139668,76.6586769,4.202187447690463,Hotel Samrat,food service,,,,food service
+12.3140591,76.6589244,4.2265496475470545,Ayodhya Lodge,,,lodging,,lodging
+12.3240671,76.6307679,1.126854087575221,State Bank of India,financial,,,,financial
+12.3237904,76.6305619,1.0974756349734434,Bandhan Bank,financial,,,,financial
+12.3237799,76.6304546,1.0858813506584217,,financial,,,,financial
+12.3352042,76.6297404,1.8171473953519512,Yogadarshanam,education,,,,education
+12.3190476,76.6532306,3.5378077110038872,Sultan Fine Arts,,home furnishing,,,home furnishing
+12.3643713,76.6097739,4.922669502896375,HP,fuel,,,,fuel
+12.3343036,76.6328216,1.941785444899383,Indian Oil,fuel,,,,fuel
+12.3262108,76.615965,0.7446793483278864,Bank of Baroda,financial,,,,financial
+12.3264726,76.6160094,0.7625048106515134,Canara Bank,financial,,,,financial
+12.3259548,76.6140268,0.8879658685325625,Hills Special Momo's,food service,,,,food service
+12.3251774,76.6109034,1.1488708756653718,Annapoorna,food service,,,,food service
+12.3258621,76.6108479,1.1841698078623897,Pegs & Kegs,bar/club,,,,bar/club
+12.3270522,76.6190764,0.6522793873111115,Saviruchi Thindi Mane,food service,,,,food service
+12.3203407,76.609254,1.2551489102598483,Zen Xone,cafe,,,,cafe
+12.3053858,76.6631291,4.936602382057432,Hotel Anand Vihar,food service,,,,food service
+12.3194068,76.6575194,4.000134929054428,Masjid e Azam,place of worship,,,,place of worship
+12.3268695,76.6189774,0.6359820683823065,Mathura Veg,food service,,,,food service
+12.3267865,76.6269118,0.8963346250882079,Win-win tea cafe,cafe,,,,cafe
+12.3608262,76.6009771,4.880108330784726,ICICI Bank,financial,,,,financial
+12.36095,76.6009739,4.8926247150913715,Axis Bank,financial,,,,financial
+12.3122609,76.6482446,3.1552342835285496,Maddur Tiffanys,food service,,,,food service
+12.3094156,76.647796,3.2266755058560976,Van Heusen,,clothes,,,clothes
+12.3420022,76.6549236,4.360582087519332,Loyal World,,grocery,,,grocery
+12.3421294,76.6548859,4.36454188195077,Pearl Big Chicken,food service,,,,food service
+12.3422007,76.6542883,4.313773169943165,The Dawn,,,lodging,,lodging
+12.3419677,76.6544526,4.3150823224604,Auto Rickshaw Stand,transportation,,,,transportation
+12.319123,76.6616618,4.4512083677144725,,place of worship,,,,place of worship
+12.3089775,76.660609,4.545274850353293,,bar/club,,,,bar/club
+12.3163609,76.6436001,2.544728466164697,Museum Reference Library,education,,,,education
+12.3046123,76.6541609,4.082085502652879,Sri Prasanna Krishna Swamy Temple,place of worship,,,,place of worship
+12.3132167,76.6518592,3.4999702189313098,The Largest Tyre of India,,,attraction,,attraction
+12.3159537,76.6435259,2.547292795280047,Maharani Saloon,,,attraction,,attraction
+12.3163246,76.6437005,2.556258464319947,Yashraj Cafeteria,cafe,,,,cafe
+12.2894523,76.6503214,4.790939797057991,Graphic Culture,,grocery,,,grocery
+12.2890529,76.6495389,4.767800632408999,,financial,,,,financial
+12.3503348,76.6389718,3.7753432840804018,Bharat Petroleum,fuel,,,,fuel
