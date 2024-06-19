@@ -5,7 +5,7 @@ matplotlib
 numpy
 geopy
 scipy
-streamlit
+streamlit==1.22.0
 streamlit_folium
 folium
 osmium
