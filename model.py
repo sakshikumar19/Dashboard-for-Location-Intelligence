@@ -192,8 +192,8 @@ def create_competitor_plot(df, store_location):
     store_df = pd.DataFrame({
         'Landmark Latitude': [store_location[0]],
         'Landmark Longitude': [store_location[1]],
-        'Property Type': ['Store Location'],
-        'Landmark Name': ['Store']
+        'Property Type': ['My Store Location'],
+        'Landmark Name': ['Max Fashion']
     })
     
     # Concatenate the filtered dataframe with the store location dataframe
@@ -202,7 +202,7 @@ def create_competitor_plot(df, store_location):
     # Create the scatter plot
     fig = px.scatter(df_with_store, x='Landmark Longitude', y='Landmark Latitude', color='Property Type',
                      hover_data={'Landmark Name': True, 'Landmark Latitude': True, 'Landmark Longitude': True},
-                     labels={'Property Type': 'Property Type'},
+                     labels={'Property Type': 'Competitors'},
                      title="")
     fig.update_layout(xaxis_title="Longitude", yaxis_title="Latitude")
     return fig
