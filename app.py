@@ -94,6 +94,7 @@ if city:
             competitor_plot = model.create_competitor_plot(df, store_location)
             st.plotly_chart(competitor_plot)
             
+            st.markdown("#### 6. Pie Chart")
             pie = model.pie_chart(df)
             st.pyplot(pie)
 
