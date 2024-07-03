@@ -8,7 +8,7 @@ import plotly.express as px
 
 # Add parent directory to sys.path to import helper functions
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-from helper import create_store_map, create_hexbin_plot, create_folium_map
+from helper import create_store_map, create_hexbin_plot, create_folium_map, create_competitor_plot
 
 def render():
     st.title("Expansion Analysis")
@@ -35,6 +35,10 @@ def render():
 
         folium_plot = create_folium_map(file_path)
         folium_static(folium_plot)
+        
+        comp_plot = create_competitor_plot(file_path)
+        st.plotly_chart(comp_plot)
+
 
         # Read and display the CSV file
         df = pd.read_csv(file_path)

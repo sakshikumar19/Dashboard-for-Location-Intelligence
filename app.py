@@ -88,6 +88,13 @@ if city:
             scatter_plot = model.create_scatter_plot(df, store_location)
             st.plotly_chart(scatter_plot)
 
+            st.markdown("#### 5. Competitor Plot")
+
+            competitor_plot = model.create_competitor_plot(df, store_location)
+            st.plotly_chart(competitor_plot)
+            
+            pie = model.pie_chart(df)
+            st.pyplot(pie)
 
         else:
             st.error(f"Store code {store} not found.")

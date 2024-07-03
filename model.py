@@ -183,3 +183,35 @@ def create_folium_map(df, store_location, selected_property_types):
     return map_folium
 
 
+def create_competitor_plot(df, store_location):
+    # Filter the dataframe for specific landmarks
+    landmarks_to_plot = ['Reliance Trends', 'Zudio', 'Westside']
+    filtered_df = df[df['Landmark Name'].isin(landmarks_to_plot)]
+    
+    # Create a new dataframe for the store location
+    store_df = pd.DataFrame({
+        'Landmark Latitude': [store_location[0]],
+        'Landmark Longitude': [store_location[1]],
+        'Property Type': ['Store Location'],
+        'Landmark Name': ['Store']
+    })
+    
+    # Concatenate the filtered dataframe with the store location dataframe
+    df_with_store = pd.concat([filtered_df, store_df], ignore_index=True)
+
+    # Create the scatter plot
+    fig = px.scatter(df_with_store, x='Landmark Longitude', y='Landmark Latitude', color='Property Type',
+                     hover_data={'Landmark Name': True, 'Landmark Latitude': True, 'Landmark Longitude': True},
+                     labels={'Property Type': 'Property Type'},
+                     title="Interactive Scatter Plot of Grouped Columns")
+    fig.update_layout(xaxis_title="Longitude", yaxis_title="Latitude")
+    return fig
+
+def pie_chart(df):
+    property_counts = df['Property Type'].value_counts()
+    
+    fig, ax = plt.subplots(figsize=(8, 8))
+    ax.pie(property_counts, labels=property_counts.index, autopct='%1.1f%%', startangle=140)
+    ax.set_title('Distribution of Property Types')
+    ax.axis('equal')  # Equal aspect ratio ensures that the pie is drawn as a circle.
+    return fig

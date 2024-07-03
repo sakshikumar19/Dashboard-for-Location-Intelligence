@@ -2,6 +2,7 @@ import pandas as pd
 import folium
 import plotly.graph_objects as go
 import random
+import plotly.express as px
 
 def load_store_locations(file_path='Store_Info_Latitude_Longitude.xlsx'):
     df = pd.read_excel(file_path)
@@ -76,7 +77,7 @@ def get_random_color():
     return random.choice(colors)
 
 def create_folium_map(filepath):
-    filepath=filepath.replace('expansion\\', 'locations\\')
+    filepath = filepath.replace('expansion\\', 'locations\\')
     df = pd.read_csv(filepath)
     
     center_lat = df['latitude'].mean()
@@ -88,7 +89,9 @@ def create_folium_map(filepath):
     map_folium = folium.Map(location=store_location, zoom_start=13)
     
     color_mapping = {ptype: get_random_color() for ptype in unique_property_types}
-    feature_groups = {ptype: folium.FeatureGroup(name=ptype) for ptype in unique_property_types}
+    feature_groups = {ptype: folium.FeatureGroup(name=ptype, show=(ptype == 'default_property_type')) for ptype in unique_property_types}
+    
+    default_property_type = 'transportation'  # Replace with your default property type
 
     for _, row in df.iterrows():
         marker = folium.Marker(
@@ -104,3 +107,19 @@ def create_folium_map(filepath):
     folium.LayerControl().add_to(map_folium)
 
     return map_folium
+
+def create_competitor_plot(filepath):
+    filepath=filepath.replace('expansion\\', 'locations\\')
+    df = pd.read_csv(filepath)
+
+    # Filter the dataframe for specific landmarks
+    landmarks_to_plot = ['Reliance Trends', 'Zudio', 'Westside']
+    filtered_df = df[df['name'].isin(landmarks_to_plot)]
+    
+    # Create the scatter plot
+    fig = px.scatter(filtered_df, x='longitude', y='latitude', color='Property Type',
+                     hover_data={'name': True, 'latitude': True, 'longitude': True},
+                     labels={'Property Type': 'Property Type'},
+                     title="Interactive Scatter Plot of Grouped Columns")
+    fig.update_layout(xaxis_title="Longitude", yaxis_title="Latitude")
+    return fig
