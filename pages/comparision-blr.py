@@ -70,7 +70,7 @@ def render():
 
     def main():
         # Static directory path
-        directory = './mys'
+        directory = './blr'
         competitors = ['Reliance Trends', 'Westside', 'Zudio']
 
         property_counts = count_property_types(directory)
