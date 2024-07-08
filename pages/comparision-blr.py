@@ -2,7 +2,7 @@ import streamlit as st
 import os
 import pandas as pd
 import matplotlib.pyplot as plt
-import seaborn as sns  # Import seaborn for color palettes
+import seaborn as sns
 
 def render():
     st.title("Comparative Analysis for Bangalore")
@@ -67,6 +67,18 @@ def render():
         plt.xticks(rotation=45)
         plt.tight_layout()
         st.pyplot(fig)
+    
+    def plot_heatmap(competitor_df):
+        plt.figure(figsize=(12, 8))
+        sns.heatmap(competitor_df, annot=True, cmap='coolwarm')
+        plt.title('Heatmap of Competitor Landmarks')
+        plt.xlabel('Competitors')
+        plt.ylabel('Store')
+        plt.xticks(rotation=45)
+        plt.yticks(rotation=0)
+        plt.tight_layout()
+        st.pyplot(plt)
+
 
     def main():
         # Static directory path
@@ -79,13 +91,14 @@ def render():
         
         if competitor_counts:
             competitor_df = create_competitor_comparison_df(competitor_counts)
-            plot_competitor_analysis(competitor_df)
+            plot_heatmap(competitor_df)  # Display heatmap
+            plot_competitor_analysis(competitor_df)  # Display bar plot for competitor analysis
         else:
             st.warning("No competitor landmarks found in the directory.")
 
         if property_counts:
             comparison_df = create_comparison_df(property_counts)
-            plot_separate_analysis(comparison_df)
+            plot_separate_analysis(comparison_df)  # Display separate analysis bar plots
         else:
             st.warning("No CSV files found in the directory.")
 
