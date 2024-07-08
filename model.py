@@ -192,8 +192,8 @@ def create_competitor_plot(df, store_location):
     store_df = pd.DataFrame({
         'Landmark Latitude': [store_location[0]],
         'Landmark Longitude': [store_location[1]],
-        'Property Type': ['Store Location'],
-        'Landmark Name': ['Store']
+        'Property Type': ['My Store Location'],
+        'Landmark Name': ['Max Fashion']
     })
     
     # Concatenate the filtered dataframe with the store location dataframe
@@ -202,8 +202,8 @@ def create_competitor_plot(df, store_location):
     # Create the scatter plot
     fig = px.scatter(df_with_store, x='Landmark Longitude', y='Landmark Latitude', color='Property Type',
                      hover_data={'Landmark Name': True, 'Landmark Latitude': True, 'Landmark Longitude': True},
-                     labels={'Property Type': 'Property Type'},
-                     title="Interactive Scatter Plot of Grouped Columns")
+                     labels={'Property Type': 'Competitors'},
+                     title="")
     fig.update_layout(xaxis_title="Longitude", yaxis_title="Latitude")
     return fig
 
@@ -212,6 +212,6 @@ def pie_chart(df):
     
     fig, ax = plt.subplots(figsize=(8, 8))
     ax.pie(property_counts, labels=property_counts.index, autopct='%1.1f%%', startangle=140)
-    ax.set_title('Distribution of Property Types')
+    ax.set_title("""Distribution of Property Types\n""")
     ax.axis('equal')  # Equal aspect ratio ensures that the pie is drawn as a circle.
     return fig

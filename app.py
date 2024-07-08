@@ -89,10 +89,12 @@ if city:
             st.plotly_chart(scatter_plot)
 
             st.markdown("#### 5. Competitor Plot")
+            st.write("Hover over datapoints to see the competitor store names")
 
             competitor_plot = model.create_competitor_plot(df, store_location)
             st.plotly_chart(competitor_plot)
             
+            st.markdown("#### 6. Pie Chart")
             pie = model.pie_chart(df)
             st.pyplot(pie)
 
