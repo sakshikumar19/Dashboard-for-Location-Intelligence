@@ -20,9 +20,29 @@ def render():
                 property_counts[area_name] = counts
         return property_counts
 
+    def count_competitor_landmarks(directory, competitors):
+        competitor_counts = {}
+
+        for filename in os.listdir(directory):
+            if filename.endswith('.csv'):
+                area_name = filename[:-4]
+                filepath = os.path.join(directory, filename)
+                df = pd.read_csv(filepath)
+                
+                # Filter for competitor landmarks and count them
+                counts = df['Landmark Name'].value_counts()
+                filtered_counts = counts[counts.index.isin(competitors)]
+                competitor_counts[area_name] = filtered_counts
+
+        return competitor_counts
+
     def create_comparison_df(property_counts):
         comparison_df = pd.DataFrame(property_counts).fillna(0)
         return comparison_df
+
+    def create_competitor_comparison_df(competitor_counts):
+        competitor_df = pd.DataFrame(competitor_counts).fillna(0).T
+        return competitor_df
 
     def plot_separate_analysis(comparison_df):
         # Define a soft color palette with three complementary colors
@@ -37,19 +57,34 @@ def render():
             plt.xticks(rotation=45)
             plt.tight_layout()
             st.pyplot(fig)
+    
+    def plot_competitor_analysis(competitor_df):
+        fig, ax = plt.subplots(figsize=(10, 6))
+        competitor_df.plot(kind='bar', stacked=True, ax=ax, color=['skyblue', 'lightgreen', 'salmon'])
+        ax.set_title('Number of Competitor Landmarks')
+        ax.set_xlabel('Store')
+        ax.set_ylabel('Count')
+        plt.xticks(rotation=45)
+        plt.tight_layout()
+        st.pyplot(fig)
 
     def main():
         # Static directory path
         directory = './blr'
+        competitors = ['Reliance Trends', 'Westside', 'Zudio']
 
-        # Step 1: Count unique property types in each CSV file
         property_counts = count_property_types(directory)
 
-        if property_counts:
-            # Step 2: Create a DataFrame for comparison
-            comparison_df = create_comparison_df(property_counts)
+        competitor_counts = count_competitor_landmarks(directory, competitors)
+        
+        if competitor_counts:
+            competitor_df = create_competitor_comparison_df(competitor_counts)
+            plot_competitor_analysis(competitor_df)
+        else:
+            st.warning("No competitor landmarks found in the directory.")
 
-            # Step 3: Plot separate analysis for each property type
+        if property_counts:
+            comparison_df = create_comparison_df(property_counts)
             plot_separate_analysis(comparison_df)
         else:
             st.warning("No CSV files found in the directory.")
