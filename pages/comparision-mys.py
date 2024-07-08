@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns  # Import seaborn for color palettes
 
 def render():
-    st.title("Comparative Analysis for Bangalore")
+    st.title("Comparative Analysis for Mysore")
 
     def count_property_types(directory):
         property_counts = {}
